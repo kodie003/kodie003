@@ -14,12 +14,15 @@
 - 🔭 Building **[benj](https://benj-xanix.vercel.app)** (tech lead) and **[Sema Leo](https://github.com/kodie003/sema_leo_alpha)** (CTO)
 
 - 🤖 Researching robot navigation on farms and building **[REPLAST](https://github.com/kodie003/REPLAST)**, a waste-sorting robot
+
 - 🌱 Learning **AI security, cryptography and embedded systems**
 
 - 🌍 Founder of **[AWAKE](https://awake-nine-mu.vercel.app)**, a STEM outreach for girls
+
 - 👨‍💻 Projects: [kodie003.github.io/ashesi-portfolio](https://kodie003.github.io/ashesi-portfolio/)
 
 - 💬 Ask me anything about **philosophy...**
+
 - 📫 **josephine.kodie@ashesi.edu.gh**
 
 - ⚡ Fun fact: **I play 5 competitive sports: basketball 🏀, football ⚽, field hockey 🏑, lawn tennis 🎾 and table tennis 🏓**
