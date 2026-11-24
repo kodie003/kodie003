@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Josephine Yeboah-Kodie</h1>
 
 <p align="center">
-  <a href="https://kodie003.github.io/Portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Ashesi+University+%F0%9F%87%AC%F0%9F%87%AD;Ethical+hacker+%E2%80%A2+Robot+driver+%E2%80%A2+Point+guard;I+build+apps%2C+robots+and+things+that+matter" alt="Typing intro" /></a>
+  <a href="https://kodie003.github.io/ashesi-portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Ashesi+University+%F0%9F%87%AC%F0%9F%87%AD;Ethical+hacker+%E2%80%A2+Robot+driver+%E2%80%A2+Point+guard;I+build+apps%2C+robots+and+things+that+matter" alt="Typing intro" /></a>
 </p>
 
 <h3 align="center">A computer engineer in the making from Ghana who builds software, robots and community 🇬🇭</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kodie003&label=Profile%20views&color=0e75b6&style=flat" alt="kodie003" />
-  <a href="https://kodie003.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kodie003.github.io/ashesi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:josephine.kodie@ashesi.edu.gh"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -22,13 +22,13 @@
 
 - 🌍 I founded **[AWAKE](https://awake-nine-mu.vercel.app)**, a STEM and robotics outreach that introduces girls aged 12–19 in the Ashanti and Northern regions to climate tech
 
-- 👨‍💻 All of my projects are available at [kodie003.github.io/Portfolio](https://kodie003.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [kodie003.github.io/Portfolio](https://kodie003.github.io/ashesi-portfolio/)
 
 - 💬 Ask me about **driving a robot for Team Ghana in Athens 🇬🇷** (we won the Judges’ Award at FIRST Global 2024)
 
 - 📫 How to reach me: **josephine.kodie@ashesi.edu.gh**
 
-- ⚡ Fun fact: **I play basketball (2026 Ashesi MVP 🏀), football, field hockey, lawn tennis and table tennis, and I was national CyberChamp in Grade 10 🛡️**
+- ⚡ Fun fact: **I play 5 competitive sports: basketball 🏀, football ⚽, field hockey 🏑, lawn tennis 🎾 and table tennis 🏓**
 
 <h3 align="left">🏆 Highlights</h3>
 
