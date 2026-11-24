@@ -22,7 +22,7 @@
 
 - 🌍 I founded **[AWAKE](https://awake-nine-mu.vercel.app)**, a STEM and robotics outreach that introduces girls aged 12–19 in the Ashanti and Northern regions to climate tech
 
-- 👨‍💻 All of my projects are available at [kodie003.github.io/Portfolio](https://kodie003.github.io/ashesi-portfolio/)
+- 👨‍💻 All of my projects are available at [kodie003.github.io/ashesi-portfolio](https://kodie003.github.io/ashesi-portfolio/)
 
 - 💬 Ask me about **driving a robot for Team Ghana in Athens 🇬🇷** (we won the Judges’ Award at FIRST Global 2024)
 
