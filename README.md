@@ -4,7 +4,7 @@
   <a href="https://kodie003.github.io/ashesi-portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Ashesi+University+%F0%9F%87%AC%F0%9F%87%AD;Ethical+hacker+%E2%80%A2+Robot+driver+%E2%80%A2+Point+guard;I+build+apps%2C+robots+and+things+that+matter" alt="Typing intro" /></a>
 </p>
 
-<h3 align="center">A computer engineer in the making from Ghana who builds software, robots and community 🇬🇭</h3>
+<h3 align="center">A learner and a creative</h3>
 
 <p align="center">
   <a href="https://kodie003.github.io/ashesi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
