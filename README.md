@@ -7,7 +7,6 @@
 <h3 align="center">A computer engineer in the making from Ghana who builds software, robots and community 🇬🇭</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kodie003&label=Profile%20views&color=0e75b6&style=flat" alt="kodie003" />
   <a href="https://kodie003.github.io/ashesi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:josephine.kodie@ashesi.edu.gh"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
